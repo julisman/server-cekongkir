@@ -8,6 +8,6 @@ HOW TO USE ?
 
 * register to http://rajaongkir.com to get a key 
 * set your key in server.js 
-* make sure your laptop have nodejs
+* make sure your pc have nodejs
 * npm install
 * node server.js
